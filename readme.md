@@ -29,7 +29,7 @@ Simple Project that is Simple Counter, I used the **Lightning.jsx** background, 
 
 | 🎬 **Working Demo** |
 |:-------------------:|
-| <video src="./Videos/Counter.mp4" width="640" autoplay loop muted playsinline></video> |
+| <img src="./Videos/Counter.gif" width="640" alt="Counter demo" /> |
 | <a href="./Videos/Counter.mp4">Download/Watch Counter.mp4</a> |
 
 </div>
